@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Freecs11
 - 👀 I’m interested in Game Developpement , web Dev and software dev.
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on any unity project really :) 
+- 🌱 I’m currently learning Spring boot + Angular ;
+- 💞️ I’m looking to collaborate on any * project really :) 
 - 📫 How to reach me : Freecs11#0700 on Discord :) please don't hesitate to reach out
 
 <!---
