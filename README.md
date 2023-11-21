@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Freecs11
 - 👀 I’m interested in Game Developpement , web Dev and software dev.
-- 🌱 I’m currently learning Spring boot + Angular ;
+- 🌱 I’m currently doing a master's in Sorbonne University, called STL(science et technologie de logiciel in french) ;
 - 💞️ I’m looking to collaborate on any * project really :) 
 - 📫 How to reach me : Freecs11#0700 on Discord :) please don't hesitate to reach out
 
